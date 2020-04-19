@@ -1,15 +1,9 @@
 station,origin,departure,arrival,due,late
-Dublin Connolly,Greystones,16:55,18:11,4 min,2 min
-Dublin Connolly,Bray,17:25,18:30,19 min,-3 min
-Dublin Connolly,Dublin Connolly,18:15,19:12,29 min,0 min
-Dublin Connolly,Greystones,17:50,19:06,57 min,0 min
-Dublin Connolly,Dublin Connolly,19:00,21:08,74 min,0 min
-Dublin Connolly,Bray,18:30,19:35,87 min,0 min
-Dublin Connolly,Dublin Connolly,19:15,22:32,89 min,0 min
-Dublin Connolly,Drogheda,17:05,18:03,17 min,0 min
-Dublin Connolly,Howth,17:45,18:52,23 min,0 min
-Dublin Connolly,Belfast,16:05,18:15,29 min,0 min
-Dublin Connolly,Dublin Connolly,18:45,21:40,59 min,0 min
-Dublin Connolly,Malahide,18:25,19:42,64 min,0 min
-Dublin Connolly,Maynooth,18:10,18:55,69 min,0 min
-Dublin Connolly,Howth,18:50,19:57,88 min,0 min
+Dublin Connolly,Greystones,18:50,20:06,19 min,0 min
+Dublin Connolly,Bray,19:30,20:35,49 min,0 min
+Dublin Connolly,Greystones,19:50,21:06,79 min,0 min
+Dublin Connolly,Rosslare Europort,18:05,20:51,87 min,0 min
+Dublin Connolly,Malahide,19:20,20:37,21 min,0 min
+Dublin Connolly,Howth,19:50,20:57,50 min,0 min
+Dublin Connolly,Malahide,20:20,21:37,81 min,0 min
+Dublin Connolly,Drogheda,19:55,20:54,90 min,0 min

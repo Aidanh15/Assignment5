@@ -52,4 +52,5 @@ def parseData():
 
         return(False)
         #time.sleep(30)
+        #return(True)
 parseData()

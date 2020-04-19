@@ -17,7 +17,7 @@ def createPage():
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" type="text/css" href="style.css"><meta http-equiv=\"refresh\" content=\"30\" />
+    <link rel="stylesheet" type="text/css" href="style.css"><meta http-equiv="refresh" content="33" >
     <link rel="icon" href="image/png" href="https://www.irishrail.ie/favicon.ico"/>
     <script src="script.js"></script>
     <title>Document</title>
