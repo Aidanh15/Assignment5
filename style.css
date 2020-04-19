@@ -35,8 +35,6 @@ h1{
   }
   
   
-  /* demo styles */
-  
   @import url(https://fonts.googleapis.com/css?family=Roboto:400,500,300,700);
   body{
     background: -webkit-linear-gradient(left, #25c481, #25b7c4);
@@ -47,7 +45,7 @@ h1{
     margin: 50px;
   }
   
-  /* for custom scrollbar for webkit browser*/
+  /*custom scrollbar on webkit*/
   
   ::-webkit-scrollbar {
       width: 6px;

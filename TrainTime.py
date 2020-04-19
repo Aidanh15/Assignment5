@@ -9,7 +9,7 @@ from prettytable import PrettyTable
 def parseData():
     while True:
 
-        url = "http://api.irishrail.ie/realtime/realtime.asmx/getStationDataByCodeXML_WithNumMins?StationCode=DCDRA&NumMins=90&format=xml"
+        url = "http://api.irishrail.ie/realtime/realtime.asmx/getStationDataByCodeXML_WithNumMins?StationCode=CNLLY&NumMins=90&format=xml"
         start_url = requests.get(url)
 
         soup = BeautifulSoup(start_url.text, "xml")
@@ -33,9 +33,7 @@ def parseData():
 
 
 
-        # approach 2
-        # I think ths approach may work, its returning an error   'list' object has no attribute 'keys'
-
+        
         # specifying the fields for csv file
         fields = ['station', 'origin', 'departure', 'arrival', 'due', 'late']
 
